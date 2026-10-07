@@ -1,7 +1,7 @@
 ## Olá eu sou o Gabriel Porfiro 👋
 <div> 
   <a href="https://github.com/gabriel-porfiro">
-  <img height="180em" https="//github-stats-extended.vercel.app/api?username=octocat&theme=radical"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=gabriel-porfiro&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_red"/>
 </div>
 
 - 🔭 Estudando Node.js
