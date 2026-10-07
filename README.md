@@ -4,8 +4,6 @@
   </h1>
 </div>
 
-#
-
 <p align="center">Estudante de Ciências Exatas na Universidade Federal de Juiz de Fora. Atualmente trabalho com Node e React e estudo Python paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
