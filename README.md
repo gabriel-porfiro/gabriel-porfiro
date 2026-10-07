@@ -1,9 +1,13 @@
 <div align="center">
+  <h1>
+    Ola! Meu nome é Gabriel 👋
+  </h1>
+  <!--
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100000000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+" alt="Typing SVG">
   </a>
 </div>
-
+  -->
 #
 
 <p align="center">Estudante de Ciências Exatas na Universidade Federal de Juiz de Fora. Atualmente trabalho com Node e React e estudo Python paralelamente.
