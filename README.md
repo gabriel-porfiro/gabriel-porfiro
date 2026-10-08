@@ -39,7 +39,7 @@ Atualmente desenvolvo projetos utilizando **Node.js** e **React**, além de expa
 </a>
 
 ---
-
+<!--
 ### 🐍 Minhas Contribuições
 
 <picture>
