@@ -17,6 +17,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
   [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:gabrielporfiro21@gmail.com)    
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-porfiro/)
+
+  <table border="0">
+  <tr>
+    <td><img src="https://shields.io" alt="JS">teste</td>
+    <td><img src="https://shields.io" alt="React">tsgerg</td>
+    <td><img src="https://shields.io" alt="Node">tewgwger<w/td>
+  </tr>
+</table>
   
 </div>
 
