@@ -16,14 +16,19 @@ Atualmente desenvolvo projetos utilizando **Node.js** e **React**, além de expa
 
 ### 🛠️ Minha Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" alt="javascript logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="32" alt="typescript logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="node logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo" />
+<img src="https://jsdelivr.net" height="32" alt="html5 logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="css3 logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="tailwind logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="javascript logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="typescript logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="react logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="node logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="python logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="c++ logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="jupyter logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="postgresql logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="docker logo" /> 
+<img src="https://jsdelivr.net" height="32" alt="git logo" />
 
 ---
 
