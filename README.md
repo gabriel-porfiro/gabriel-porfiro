@@ -16,19 +16,18 @@ Atualmente desenvolvo projetos utilizando **Node.js** e **React**, além de expa
 
 ### 🛠️ Minha Stack
 
-<img src="https://jsdelivr.net" height="32" alt="html5 logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="css3 logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="tailwind logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="javascript logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="typescript logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="react logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="node logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="python logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="c++ logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="jupyter logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="postgresql logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="docker logo" /> 
-<img src="https://jsdelivr.net" height="32" alt="git logo" />
+<img src="https://cdn.simpleicons.org/typescript" height="32" alt="TypeScript" />&nbsp;
+<img src="https://cdn.simpleicons.org/javascript" height="32" alt="JavaScript" />&nbsp;
+<img src="https://cdn.simpleicons.org/react" height="32" alt="React" />&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss" height="32" alt="Tailwind CSS" />&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs" height="32" alt="Node.js" />&nbsp;
+<img src="https://cdn.simpleicons.org/fastify" height="32" alt="Fastify" />&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql" height="32" alt="PostgreSQL" />&nbsp;
+<img src="https://cdn.simpleicons.org/drizzle" height="32" alt="Drizzle ORM" />&nbsp;
+<img src="https://cdn.simpleicons.org/docker" height="32" alt="Docker" />&nbsp;
+<img src="https://cdn.simpleicons.org/git" height="32" alt="Git" />&nbsp;
+<img src="https://cdn.simpleicons.org/python" height="32" alt="Python" />&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus" height="32" alt="C++" />
 
 ---
 
